@@ -1,25 +1,35 @@
 /* Write your CSS here! */
 
 body {
-    background-color: red;
+    background-color: #ffffff;
   }
 
-/* hr.solid {
+  /* #e8f5ef */
+
+hr.solid {
     color:#92ccb3;
+    center;
   }
 
-#Intro {
-    color: #187D51;
- }
+h1{
+    color: #116641;
+    font-size: 36px;
+    text-align: center;
+}
 
-#Past-title {
-    color: #187D51;
- }
+#introP{
+  font-size: 20px;
+  text-align: center
+}
 
-#Present-title {
-    color: #187D51;
- }
+h2 {
+  color: #116641 ;
+}
 
-#Future {
-    color: #187D51;
- } */
+h3 {
+  color:#218e5f
+}
+
+#mainHeading{
+  color:rgb(24, 162, 142);
+}
