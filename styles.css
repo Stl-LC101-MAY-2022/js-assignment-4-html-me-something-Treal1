@@ -2,6 +2,7 @@
 
 body {
     background-color: #e8efee;
+    margin: 8px;
   }
 
   /* #e8f5ef */
@@ -24,7 +25,7 @@ h1{
 }
 
 #mainHeading{
-  color:rgb(24, 162, 142);
+  color:red;
   font-family: Optima;
   font-size: 50px;
   text-align: center;
@@ -58,6 +59,14 @@ p {
   margin-bottom: 20px;
   margin-right: 150px;
   margin-left: 70px;
+}
+
+#testP{
+  color: red
+}
+
+.funParagraph{
+  color: red;
 }
 
 li {
