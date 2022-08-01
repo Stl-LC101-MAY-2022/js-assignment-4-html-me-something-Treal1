@@ -1,1 +1,45 @@
-/* Write your CSS here! */
+body {
+  margin: 8px;
+  display: block; 
+  padding: 10px;
+  background-color: #e8efee;
+}
+
+hr.solid {
+  color:#92ccb3;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#mainHeading {
+  color: red;
+}
+
+.funParagraph {
+  color: green;
+  
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  font-family: Optima;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 150px;
+  margin-left: 70px;
+}
+
+html {
+  font-family: Optima;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
